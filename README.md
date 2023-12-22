@@ -24,5 +24,5 @@ The system relies on the timer to answer the question, and when the questions ar
 
 - GitHub [@Salah-Moftah](https://github.com/Salah-Moftah)
 - FaceBook [@salahmoftah142](https://www.facebook.com/salahmoftah142)
-- LinkedIn [@](#)
+- LinkedIn [@salah-moftah-12293b219](https://www.linkedin.com/in/salah-moftah-12293b219)
 
